@@ -1,4 +1,4 @@
-# Time Series forecasting on Metro Traffic Volume in Minneapolis
+# Time Series Analysis & Forecasting on Metro Traffic Volume in Minneapolis
 ***
 
 ## Dataset Information
@@ -9,7 +9,7 @@ Hourly Interstate 94 Westbound traffic volume for MN DoT ATR station 301, roughl
 
 ## Project Overview
 
-This project is for the completion of the Time Series course at the University of Barcelona for the partial fulfillment of Master of Science in Fundamentals of Data Science.
+This project is for the completion of the Time Series Analysis course at the University of Barcelona for the partial fulfillment of Master of Science in Fundamentals of Data Science.
 
 The focus of this project is the application of the core competencies and concepts of the course, including:
 
